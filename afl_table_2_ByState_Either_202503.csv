@@ -1,0 +1,5 @@
+State,Affiliated CUs,Non Affiliated CUs,State Chartered,Fed Chartered,Total CUs,Affiliated Memberships,Affiliated Assets,Total Memberships,Total Assets,% CUs Affiliated,% Memberships Affiliated,% Assets Affiliated
+Guam,2,0,0,2,2,65001,806774063,65001,806774063,1,1,1
+Puerto Rico,3,1,0,4,4,103246,1199398547,104140,1202470965,0.75,0.9914154023,0.9974449129
+Virgin Islands,3,2,0,5,5,13859,126385742,17540,159701434,0.6,0.7901368301,0.7913876465
+Totals,8,3,0,11,11,182106,2132558352,186681,2168946462,0.7272727273,0.9754929532,0.9832231405
